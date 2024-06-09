@@ -1,0 +1,7 @@
+POST https://tpzp7cbqyf.execute-api.ap-southeast-1.amazonaws.com/prod/register
+Content-Type: application/json
+
+{
+  "username": "muneef",
+  "password": "123",
+}
